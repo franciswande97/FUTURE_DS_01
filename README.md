@@ -99,7 +99,7 @@ Performance differed significantly between categories and regions, highlighting 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Superstore_dashboard.png)
 
 ---
 
